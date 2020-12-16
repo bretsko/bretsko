@@ -1,21 +1,54 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm iOS developer, working on the following projects 
 
-##### NOW
 
-- 🌐 Crafting the (unofficial) [Laravel Country Logomarks](https://github.com/caneco/laravel-country-logomarks)
-- 💅 Designing post covers for the [Laravel News](https://twitter.com/Caneco/status/1322187341436518402)
-- 🎙 Interviewing the [Laracon.EU/Online](https://twitter.com/LaraconEU/status/1328686553040887808) Speakers
-- 💬 Currently closing [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
+#####  ⚙️  XcodeExtKit
 
-##### BIO
+- [Xcode extensions framework](https://github.com/XcodeExtKit)
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- Used technologies: Swift 
+
+- 3 extensions are currently developed - to handle structs/classes, enums and just Strings 
+
+
+#####  💅  NLU / NLP framework in Swift 
+
+- a secret project ... 
+
+- No Machine Learning is used so far 
+
+- Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence
+
+- In future can be used to make chatbots, parse and understand English sentences, do spell checking
+
+
+
+##### Other projects (that I plan to continue)
+
+
+- ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
+
+Used technologies: Swift
+
+
+- 🎙 Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp), have REST API client, working music player, some UI components
+
+
+- 🌍 Unofficial [Uber app](https://github.com/bretsko/Uber), did some refactoring, working ...  
+
+
+- 🌱 Across most my projects I reuse code from [Base](https://github.com/bretsko/Base)  
+
+
+
+##### Other skills and technologies   
+
+- 💅 Machine learning, [Some stuff I learned and read about](https://github.com/bretsko/AI-links)   
+
+- 🌐 Familiar with algorithms, for example [Graph algorithms](https://github.com/bretsko/GraphAlgorithms)
+
+- 🌱 C is the languages I started with, check this simple [local network scanner](https://github.com/bretsko/network-capture)
+
+-  💬 Reach me: [Linkedin](https://www.linkedin.com/in/oleksandr-bretsko/)
+
