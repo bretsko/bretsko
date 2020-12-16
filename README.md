@@ -7,38 +7,39 @@
 
 - [Xcode extensions framework](https://github.com/XcodeExtKit)
 
-- Used technologies: Swift 
-
 - 3 extensions are currently developed - to handle structs/classes, enums and just Strings 
 
 
-#####  💅  NLU / NLP framework in Swift 
-
-- a secret project ... 
-
-- No Machine Learning is used so far 
-
-- Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence
-
-- In future can be used to make chatbots, parse and understand English sentences, do spell checking
-
-
-
-##### Other projects (that I plan to continue)
+##### Other projects (on hold)
 
 
 - ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
 
-Used technologies: Swift
+Used technologies: MapKit, HealthKit, CoreLocation
 
 
-- 🎙 Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp), have REST API client, working music player, some UI components
+- 🎙 Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp), has REST API client, working music player, some UI components
+
+Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 
-- 🌍 Unofficial [Uber app](https://github.com/bretsko/Uber), did some refactoring, working ...  
+- 🌍 Unofficial [Uber app](https://github.com/bretsko/Uber), refactored an old project
+
+Used technologies: MapKit, CoreData
 
 
-- 🌱 Across most my projects I reuse code from [Base](https://github.com/bretsko/Base)  
+
+##### Libraries   
+
+- 💅 NLU / NLP framework in Swift
+
+Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence. 
+No Machine Learning is used so far 
+In future can be used to make chatbots, parse and understand English sentences, do spell checking
+
+- [Background timer](https://github.com/bretsko/TimerKit), using DispatchSourceTimer
+
+- 🌱 Most my projects reuse code from [Base](https://github.com/bretsko/Base)  
 
 
 
