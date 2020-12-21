@@ -21,13 +21,13 @@ Used technologies: MapKit, HealthKit, CoreLocation
 
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
-Has REST API client, working music player, some UI components
+Has REST API client, working music player, some UI components  
 Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 
 
 ###  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
-Refactored an old project
+Refactored an old project  
 Used technologies: MapKit, CoreData
 
 
@@ -36,9 +36,9 @@ Used technologies: MapKit, CoreData
 
 - 💅 NLU / NLP framework in Swift
 
-Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence. 
-No Machine Learning is used so far 
-In future can be used to make chatbots, parse and understand English sentences, do spell checking
+Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence.   
+No Machine Learning is used so far   
+In future can be used to make chatbots, parse and understand English sentences, do spell checking  
 
 - [Background timer](https://github.com/bretsko/TimerKit), using DispatchSourceTimer
 
