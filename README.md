@@ -4,9 +4,10 @@
 
 
 
-###  ⚙️  [Proof reader app](https://github.com/ProofReaderApp)
+### ☑️  [Proof reader app](https://github.com/ProofReaderApp)
 
 iOS clone of [Grammarly proof reader](https://www.grammarly.com/grammar-check) 
+
 
 ###  ⚙️  [Xcode extensions framework](https://github.com/XcodeExtKit)
 
@@ -18,18 +19,15 @@ iOS clone of [Grammarly proof reader](https://www.grammarly.com/grammar-check)
 Used technologies: MapKit, HealthKit, CoreLocation
 
 
-
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
 Has REST API client, working music player, some UI components  
 Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 
-
 ###  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
 Refactored an old project  
 Used technologies: MapKit, CoreData
-
 
 
 ### Libraries   
