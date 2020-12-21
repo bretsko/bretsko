@@ -3,6 +3,11 @@
 #### I'm iOS developer, working on the following projects 
 
 
+
+###  ⚙️  [Proof reader app](https://github.com/ProofReaderApp)
+
+iOS clone of [Grammarly proof reader](https://www.grammarly.com/grammar-check) 
+
 ###  ⚙️  [Xcode extensions framework](https://github.com/XcodeExtKit)
 
 3 extensions are currently developed - to handle structs/classes, enums and just Strings 
