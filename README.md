@@ -3,15 +3,6 @@
 #### I'm iOS developer, working on the following projects 
 
 
-###  ⚙️  [Xcode extensions framework](https://github.com/XcodeExtKit)
-
-3 extensions are currently developed - to handle structs/classes, enums and just Strings 
-
-
-### ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
-
-Used technologies: MapKit, HealthKit, CoreLocation
-
 
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
@@ -19,17 +10,22 @@ Has REST API client, working music player, some UI components
 Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 
-###  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
-Refactored an old project  
-Used technologies: MapKit, CoreData
-
-
 ### Libraries   
 
 - [Background timer](https://github.com/bretsko/TimerKit), using DispatchSourceTimer
 
-- 🌱 Most my projects reuse code from [Base](https://github.com/bretsko/Base)  
+- [Xcode extensions framework](https://github.com/XcodeExtKit)
+3 extensions are currently developed - to handle structs/classes, enums and just Strings 
 
+
+### Refactored projects
+
+### ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
+Used technologies: MapKit, HealthKit, CoreLocation
+
+
+###  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
+Used technologies: MapKit, CoreData
 
 
 ### Other skills and technologies   
