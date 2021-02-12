@@ -20,11 +20,11 @@ Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 ### Refactored projects
 
-### ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
+#### ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
 Used technologies: MapKit, HealthKit, CoreLocation
 
 
-###  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
+####  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
 Used technologies: MapKit, CoreData
 
 
