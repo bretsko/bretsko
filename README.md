@@ -3,12 +3,6 @@
 #### I'm iOS developer, working on the following projects 
 
 
-
-### ☑️  [Proof reader app](https://github.com/ProofReaderApp)
-
-iOS clone of [Grammarly proof reader](https://www.grammarly.com/grammar-check) 
-
-
 ###  ⚙️  [Xcode extensions framework](https://github.com/XcodeExtKit)
 
 3 extensions are currently developed - to handle structs/classes, enums and just Strings 
@@ -31,12 +25,6 @@ Used technologies: MapKit, CoreData
 
 
 ### Libraries   
-
-- 💅 NLU / NLP framework in Swift
-
-Contains lots of language models (like Word, Phrase) and parsing functions to build an English sentence.   
-No Machine Learning is used so far   
-In future can be used to make chatbots, parse and understand English sentences, do spell checking  
 
 - [Background timer](https://github.com/bretsko/TimerKit), using DispatchSourceTimer
 
