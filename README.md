@@ -3,6 +3,9 @@
 #### I'm iOS developer, working on the following projects 
 
 
+### 🎙   [Social App](https://github.com/bretsko/SocialApp)
+Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments
+
 
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
