@@ -3,9 +3,9 @@
 #### I'm iOS developer, working on the following projects 
 
 
-### 🎙   [Social App](https://github.com/bretsko/SocialApp)
+### 🎙   [Social App](https://github.com/PracticeFeb2021)
 Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments
-
+3 archirectures used: MVC, MVVM, MVP
 
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
