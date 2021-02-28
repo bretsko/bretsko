@@ -5,7 +5,7 @@
 
 ### 🎙   [Social App](https://github.com/PracticeFeb2021)
 Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments
-Architectures used: MVC, MVVM, MVP, MVVM+RxSwift
+Architectures used: MVC, MVP, MVVM, MVVM+C (using XCoordinator), MVVM+RxSwift
 
 ### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
