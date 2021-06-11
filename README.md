@@ -4,7 +4,7 @@
 
 
 ### 🎙   [Social App](https://github.com/PracticeFeb2021)
-Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments
+Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments  
 Architectures used: MVC, MVP, MVVM, MVVM+C (with and without XCoordinator), MVVM+RxSwift
 
 
@@ -23,7 +23,8 @@ Used technologies: MapKit, HealthKit, CoreLocation
 
 ### 🎙 [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
-Currently API is deprecated
+Currently API is deprecated  
+
 Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 
 ####  🌍  [Uber app](https://github.com/bretsko/Uber)
