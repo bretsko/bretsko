@@ -7,11 +7,6 @@
 Simple iOS application, fetching posts from REST endpoint and showing detail view for each post, with comments
 Architectures used: MVC, MVP, MVVM, MVVM+C (with and without XCoordinator), MVVM+RxSwift
 
-### 🎙   Unofficial [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
-
-Has REST API client, working music player, some UI components  
-Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
-
 
 ### Libraries   
 
@@ -26,8 +21,12 @@ Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
 #### ⚡️ [App](https://github.com/RunTracker) to track runs, like [Strava](https://apps.apple.com/us/app/strava-run-ride-swim/id426826309)
 Used technologies: MapKit, HealthKit, CoreLocation
 
+### 🎙 [Soundcloud App](https://github.com/SoundcloudUnofficialApp)
 
-####  🌍   Unofficial [Uber app](https://github.com/bretsko/Uber)
+Currently API is deprecated
+Used technologies: AVFoundation, MusicKit, CoreAnimation, KVO, Alamofire
+
+####  🌍  [Uber app](https://github.com/bretsko/Uber)
 Used technologies: MapKit, CoreData
 
 
